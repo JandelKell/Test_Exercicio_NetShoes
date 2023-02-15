@@ -12,9 +12,9 @@
 <details>
 <summary><strong> 👨‍💻 Explicação dos Testes </strong></summary><br />
 
-1. Verifica o acesso ao site https://www.netshoes.com.br/
+1. Verifica o acesso ao site https://www.netshoes.com.br/
 
-2. Verifica uma busca de um pordutos da nike
+2. Verifica uma busca de um produto da Nike
 
 3. Verifica o acesso a primeiro produto da pesquisa
 
